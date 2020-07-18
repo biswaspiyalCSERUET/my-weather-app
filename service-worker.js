@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-weather-app/precache-manifest.f3d0168c4732c216a40001bd96b5e403.js"
+  "/my-weather-app/precache-manifest.ede05170e513a7079f17b49949b044ba.js"
 );
 
 self.addEventListener('message', (event) => {
